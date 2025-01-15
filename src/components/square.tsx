@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import SquareProps from "@/types/SquareProps";
 
 export default function Square(props: SquareProps) {
